@@ -14,3 +14,8 @@ h3 {
 .name {
     font-weight: 600;
 }
+
+.imageTop {
+    display: table;
+    table-layout: fixed;
+}

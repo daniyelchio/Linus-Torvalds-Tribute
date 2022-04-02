@@ -15,7 +15,11 @@ h3 {
     font-weight: 600;
 }
 
-.imageTop {
-    display: flex;
-    flex-wrap: wrap;
+figure {
+    display: inline-block;
 }
+
+.figCap {
+    text-align: center;
+}
+/* @media */

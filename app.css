@@ -16,6 +16,6 @@ h3 {
 }
 
 .imageTop {
-    display: table;
-    table-layout: fixed;
+    display: flex;
+    flex-wrap: wrap;
 }
